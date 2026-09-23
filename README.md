@@ -2,9 +2,9 @@
 
 An interactive Tableau dashboard analyzing 4,600+ global tech layoff events from March 2020 to September 2026, built to surface industry patterns, long-term trend direction, and India-specific impact within the global data.
 
-**🔗 Live Dashboard:**(https://public.tableau.com/app/profile/aesha.bhatt/viz/LayoffsTrend/Dashboard1)
+**🔗 Live Dashboard:** (https://public.tableau.com/app/profile/aesha.bhatt/viz/LayoffsTrend/Dashboard1)
 
-![Dashboard Screenshot](C:\Users\aesha\OneDrive\Desktop\Projects\Layoffs\Dashboard.png)
+(C:\Users\aesha\OneDrive\Desktop\Projects\Layoffs\Dashboard.png)
 
 ---
 
