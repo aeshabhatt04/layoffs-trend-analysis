@@ -4,7 +4,7 @@ An interactive Tableau dashboard analyzing 4,600+ global tech layoff events from
 
 **🔗 Live Dashboard:** (https://public.tableau.com/app/profile/aesha.bhatt/viz/LayoffsTrend/Dashboard1)
 
-(C:\Users\aesha\OneDrive\Desktop\Projects\Layoffs\Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
